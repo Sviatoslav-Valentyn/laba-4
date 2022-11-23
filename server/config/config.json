@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sviatoslav",
+    "password": "12312312343S!",
+    "database": "sviatoslav",
+    "host": "sviatoslav.mysql.database.azure.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "sviatoslav",
+    "password": "12312312343S!",
+    "database": "sviatoslav",
+    "host": "sviatoslav.mysql.database.azure.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sviatoslav",
+    "password": "12312312343S!",
+    "database": "sviatoslav",
+    "host": "sviatoslav.mysql.database.azure.com",
+    "dialect": "mysql"
+  }
+}
